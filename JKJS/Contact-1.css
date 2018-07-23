@@ -1,0 +1,121 @@
+*{
+    margin-top:0px;
+    padding:0px;
+}
+#section{
+    margin-top:0px;
+    list-style: none;
+    width:1400px;
+    height:580px;
+}
+#UL{
+    padding-top: 0px;
+    float: left;
+}
+.mid{
+    background-color: black;
+    width:1400px;
+    border:1px solid white;
+    height:50px;
+    margin-top:0px;
+    line-height: 50px;
+    margin-left:0px;
+    text-align: center;
+    color:white;
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#footer{
+    background:lightseagreen;
+    width:1400px;
+    height:120px;
+}
+.A{
+    color: white;
+    text-decoration: none;
+}
+#description{
+    padding-top: 0px;
+    background: lightcoral;
+    width:1400px;
+    height:530px;
+}
+#topic{
+    width:1200px;
+    height:50px;
+    text-align: center;
+}
+#Hm{
+    width:200px;
+    height:150px;
+    text-align: center;
+    border: 4 solid white;
+    line-height: 66px;
+    background: wheat;
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Hm:hover{
+    background: gold;
+    color:red;
+}
+#Email{
+    width:400px;
+    height:150px;
+    text-align: center;
+    border: 4 solid white;
+    line-height: 75px;
+    background: wheat;
+    float: left;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Email:hover{
+    background: gold;
+    color:red;
+}
+#Address{
+    width:700px;
+    height:200px;
+    text-align: center;
+    border: 4 solid white;
+    line-height: 50px;
+    background: wheat;
+    float: left;
+    margin-left: 300px;
+    margin-top: 30px;
+    font-size: 27px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Address:hover{
+    background: gold;
+    color:red;
+}
+#Route{
+    width:500px;
+    height:200px;
+    text-align: center;
+    border: 4 solid white;
+    line-height: 50px;
+    background: wheat;
+    float: left;
+    margin-left: 50px;
+    margin-top: 30px;
+    font-size: 27px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Route:hover{
+    background: gold;
+    color:red;
+}
+
+

@@ -1,0 +1,35 @@
+*{
+    margin-top:0px;
+    padding:0px;
+}
+#section{
+    margin-top:0px;
+    list-style: none;
+    background:brown;
+    width:1400px;
+    height:400px; 
+}
+#UL{
+    padding-top: 10px;
+}
+.mid{
+    background-color: blue;
+    width:150px;
+    border:1px solid white;
+    height:50px;
+    margin-top:0px;
+    line-height: 50px;
+    margin-left:10px;
+    text-align: center;
+    color:white;
+    font-size:18px;
+}
+.mid:hover{
+    background: brown;
+    color:white;
+}
+#footer{
+    background:lightseagreen;
+    width:1400px;
+    height:200px;
+}

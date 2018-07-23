@@ -1,0 +1,179 @@
+*{
+    margin:0;
+    padding:0;
+}
+#logo{
+    float: left;
+    padding-left: 20px;
+    
+}
+#name{
+    float: left;
+    padding-left: 20px;
+    padding-top: 40px;
+    width: 500px;
+    height: 110px;
+    line-height: 21px;
+    font-size: 35px;
+}
+#header{
+    background: wheat;
+    width: 1400px;
+    height:150px;
+}
+#india{
+    float: left;
+    padding-left: 440px;
+    padding-top: 8px;
+}
+#image{
+    padding-left: 180px;
+    padding-top: 10px;
+    font-size: 18px;
+    color:#F33E07;
+}
+#nav{
+    background:#A82602 ;
+    width:1400px;
+    height:50px;
+    float: left;
+}
+#middle{
+    background: wheat;
+    width: 1400px;
+    height:350px; 
+}
+#Scenery{
+    padding-left: 30px;
+    float: left;
+}
+#middle:hover{
+    border: 3px solid red;
+}
+#Map{
+    width: 1400px;
+    height: 300px;
+}
+#About{
+    background: blueviolet;
+    width:1400px;
+    height: 700px;
+}
+#left{
+    background: white;
+    width:700px;
+    height:700px;
+    float: left;
+}
+.Text_About{
+    height: 300px;
+    margin: 10px;
+    padding-top: 0px;
+}
+.heading{
+    height: 50px;
+    font-size: 30px;
+    background: brown;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.description{
+    height: 270px;
+    background: wheat;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.Next_page{
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    background: blue;
+    color: white;
+    margin-left: 0px;
+    text-decoration: none;
+}
+#Message{
+    float: left;
+    width: 500px;
+    padding-left: 10px;
+    font-family: hindi;
+    font-weight: bold;
+}
+#Boss{
+    float: left;
+}
+
+#right{
+    background: lightcoral;
+    width:700px;
+    height:700px;
+    float: left;
+ 
+}
+#Notice{
+    height: 300px;
+    background: wheat;
+    margin: 20px;
+
+}
+#Fees{
+    height: 270px;
+    background: wheat;
+    font-size: 35px;
+    font-weight: normal;
+    color:black;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+}
+#footer{
+    background:  #299DA1;
+    width:1400px;
+    height:300px;
+}
+#text1{
+    margin-left:50px;
+    margin-right:300px;
+    margin-top:10px;
+    background:white;
+    text-align: center;
+    color:#000000;
+    float: left;
+    height:170px;
+    width:150px;
+}
+#text1:hover{
+    border :4px solid #EC1111;
+}
+#text{
+    margin-left:300px;
+    margin-right:100px;
+    margin-top:0px;
+    text-align: center;
+    color:#E90740;
+    float: right ;
+    height:300px;
+    width:400px;
+}
+#text:hover{
+    
+}
+#Search{
+    margin-left:800px;
+    margin-right:100px;
+    margin-top:10px;
+}
+.A{
+    color: white;
+    text-decoration: none;
+}
+@font-face{
+    font-family: hindi;
+    src: url(Kruti_Dev_010.ttf);
+}
+.JohnHindi{
+    font-family: hindi;
+    font-weight: bold;
+    font-size: 40px;
+}

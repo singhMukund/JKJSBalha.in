@@ -1,0 +1,107 @@
+*{
+    margin-top:0px;
+    padding:0px;
+}
+
+#section{
+    margin-top:0px;
+    list-style: none;
+    width:1400px;
+    height:500px;
+}
+#UL{
+    padding-top: 0px;
+    float: left;
+}
+.mid{
+    background-color:#A82602;
+    width:150px;
+    border:1px solid white;
+    height:50px;
+    margin-top:0px;
+    line-height: 50px;
+    margin-left:10px;
+    text-align: center;
+    color:white;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mid:hover{
+    background: brown;
+    color:white;
+}
+#footer{
+    background:lightseagreen;
+    width:1400px;
+    height:170px;
+}
+.A{
+    color: white;
+    text-decoration: none;
+}
+#desciption{
+    padding-top: 0px;
+    background: #692727;
+    width:1200px;
+    height:398px;
+    float: left;
+}
+#topic{
+    background: black;
+    width:1400px;
+    height:50px;
+    text-align: center;
+    font-size:40px;
+    border:1px solid white;
+    color: white;
+    line-height: 50px;
+    float: left;
+}
+#Hate{
+    width:800px;
+    height:369px;
+    padding-left: 30px;
+    font-size: 20px;
+    padding-top: 0px;
+    background: wheat;
+    color: black;
+    float: left;
+}
+.Hindi{
+    font-family: hindi;
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+#mayank{
+    padding-left: 0px;
+}
+#profile{
+    width: 350px;
+    height: 397px;
+    float: left;
+    padding-left: 0px;
+    background: wheat;
+}
+#second{
+    padding-top: 0px;
+    height:0px;
+}
+#lalan{
+    padding-left: 70px;
+}
+#singh{
+    text-align: center;
+    color: black;
+}
+#Message4{
+    text-align: center;
+
+    color: white;
+    background: #692727;
+}
+@font-face{
+    font-family: hindi;
+    src: url(Kruti_Dev_010.ttf);
+}
